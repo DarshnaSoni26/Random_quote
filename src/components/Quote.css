@@ -1,0 +1,11 @@
+.custom{
+    border: solid 1px #fdc798;
+    width: 25%;
+    margin: 5% 0% 0% 5%;
+    height: 250px;
+    overflow-y: auto;
+    float: left;
+}
+.pagination-cust{
+    margin-top: 3%;
+}
